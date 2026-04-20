@@ -26,7 +26,7 @@ This project focuses on replicating the UI/UX of Netflix with attention to layou
 
 ## 📸 Preview
 
-(Add screenshots here — highly recommended)
+![Netflix UI Clone](assets/screenshots/preview.png)
 
 ---
 
@@ -38,7 +38,9 @@ netflix-ui-clone/
 │── style.css
 │── assets/
 │   ├── images/
+│   └── screenshots/
 │   └── videos/
+│── README.md
 ```
 
 ---
